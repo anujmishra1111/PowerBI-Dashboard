@@ -1,2 +1,2 @@
-# PowerBI-Dashboard
-This project is an interactive Power BI dashboard designed to track and analyze online sales data. It provides dynamic visualizations, key performance insights, and actionable analytics to enhance business decision-making.
+# Online Sales Analytics Dashboard | Power BI
+To develop an interactive and data-driven Power BI dashboard that enables businesses to track, analyze, and visualize online sales data efficiently, supporting better decision-making and operational improvements.
