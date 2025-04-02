@@ -7,7 +7,7 @@ To develop an interactive and data-driven Power BI dashboard that enables busine
 
 - <a href="https://github.com/anujmishra1111/PowerBI-Dashboard/blob/main/Orders.csv">DataSet2</a>
 
-##Sales Performance KPIs
+## Sales Performance KPIs
 
 What is the total revenue generated over a specific period?
 
@@ -19,7 +19,7 @@ Which products contribute the most to total revenue?
 
 What is the revenue breakdown by category, region, or sales channel?
 
-##Customer Insights KPIs
+## Customer Insights KPIs
 
 Who are the top customers based on purchase frequency and revenue?
 
@@ -31,7 +31,7 @@ What is the average customer lifetime value (CLV)?
 
 Which demographic or region generates the most revenue?
 
-##Operational Efficiency KPIs
+## Operational Efficiency KPIs
 
 How long does it take to fulfill orders on average?
 
@@ -43,7 +43,7 @@ What is the conversion rate from website visits to sales?
 
 How does inventory turnover impact sales and profitability?
 
-##Profitability & Growth KPIs
+## Profitability & Growth KPIs
 
 What is the gross profit margin for different products or categories?
 
@@ -57,7 +57,7 @@ How do seasonal trends affect sales performance?
 
 Dashboard Interaction <a herf="https://github.com/anujmishra1111/PowerBI-Dashboard/blob/main/Screenshot%202025-04-02%20043219.png"> View Dashboard</a>
 
-#Process
+# Process
 
 1️⃣ Data Collection & Import
 
@@ -117,11 +117,11 @@ Enable scheduled data refresh for real-time analytics.
 
 Share insights with business teams via Power BI Service or PDF exports.
 
-##Dashboard
+## Dashboard
 
 ![Screenshot 2025-04-02 043219](https://github.com/user-attachments/assets/c41b47b6-f57d-4ab5-b9b2-d1faada551cc)
 
-##Project Insights
+## Project Insights
 
 1️⃣ Sales Trends & Revenue Growth – Identified peak sales periods, top-performing products, and revenue-driving strategies.
 
@@ -133,7 +133,7 @@ Share insights with business teams via Power BI Service or PDF exports.
 
 5️⃣ Forecasting & Decision-Making – Enabled data-driven insights for future sales predictions and strategic planning.
 
-##Final Conclusion
+## Final Conclusion
 
 The Online Sales Analytics Dashboard transforms raw sales data into actionable insights, helping businesses optimize sales strategies, customer engagement, and operational efficiency. By leveraging Power BI and data analytics, the project enables real-time decision-making, making it a valuable tool for driving business growth and profitability. 
 
