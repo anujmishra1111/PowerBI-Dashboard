@@ -121,3 +121,21 @@ Share insights with business teams via Power BI Service or PDF exports.
 
 ![Screenshot 2025-04-02 043219](https://github.com/user-attachments/assets/c41b47b6-f57d-4ab5-b9b2-d1faada551cc)
 
+##Project Insights
+
+1️⃣ Sales Trends & Revenue Growth – Identified peak sales periods, top-performing products, and revenue-driving strategies.
+
+2️⃣ Customer Segmentation & Behavior – Found that repeat customers contribute significantly to revenue, highlighting retention opportunities.
+
+3️⃣ Operational Efficiency – Detected delays in order fulfillment and high-return products, indicating areas for process improvement.
+
+4️⃣ Profitability Analysis – Assessed the impact of discounts and promotions on sales growth and profit margins.
+
+5️⃣ Forecasting & Decision-Making – Enabled data-driven insights for future sales predictions and strategic planning.
+
+##Final Conclusion
+
+The Online Sales Analytics Dashboard transforms raw sales data into actionable insights, helping businesses optimize sales strategies, customer engagement, and operational efficiency. By leveraging Power BI and data analytics, the project enables real-time decision-making, making it a valuable tool for driving business growth and profitability. 
+
+
+
