@@ -59,13 +59,13 @@ Dashboard Interaction <a herf="https://github.com/anujmishra1111/PowerBI-Dashboa
 
 # Process
 
-1️⃣ Data Collection & Import
+**1️⃣ Data Collection & Import**
 
 Gather online sales data from various sources (e.g., Excel, SQL, e-commerce platforms).
 
 Import data into Power BI using the "Get Data" feature.
 
-2️⃣ Data Cleaning & Processing (Power Query)
+**2️⃣ Data Cleaning & Processing (Power Query)**
 
 Remove duplicates, correct formatting issues, and handle missing values.
 
@@ -73,7 +73,7 @@ Convert data types (e.g., date, currency, categories) for accurate analysis.
 
 Merge or append multiple datasets for a unified data model.
 
-3️⃣ Data Modeling & Transformation (DAX & Power Query)
+**3️⃣ Data Modeling & Transformation (DAX & Power Query)**
 
 Create relationships between tables (e.g., Orders, Customers, Products).
 
@@ -85,7 +85,7 @@ Average Order Value (AOV) = DIVIDE(SUM([Revenue]), COUNT([Order ID]))
 
 Customer Retention Rate = ([Returning Customers] / [Total Customers]) * 100
 
-4️⃣ Creating Visualizations & Interactive Dashboard
+**4️⃣ Creating Visualizations & Interactive Dashboard**
 
 Design key visual elements:
 
@@ -99,7 +99,7 @@ Filters & Slicers for dynamic data exploration.
 
 Customize dashboard layout for a clear and engaging user experience.
 
-5️⃣ Insights & Reporting
+**5️⃣ Insights & Reporting**
 
 Identify top-performing products, regions, and customers.
 
@@ -109,7 +109,7 @@ Evaluate the impact of promotions, discounts, and seasonal changes.
 
 Generate automated reports and dashboards for stakeholders.
 
-6️⃣ Export & Deployment
+**6️⃣ Export & Deployment**
 
 Save and publish the Power BI dashboard for web or app access.
 
